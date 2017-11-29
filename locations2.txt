@@ -1,0 +1,14 @@
+Omaha;490;263
+Kansas City;516;316
+Indianapolis;658;290
+El Paso;290;472
+Reno;613;520
+Fresno;70;312
+Great Salt Lake;217;251
+Lake Pontchartrain;612;519
+Lake Champlain;849;142
+Key West;797;610
+Death Valley;113;327
+Lincoln Tunnel;859;234
+Denali;101;574
+Yellowstone National Park;256;168

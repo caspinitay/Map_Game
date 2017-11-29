@@ -1,0 +1,2 @@
+New York City;0;0
+Los Angeles;0;0

@@ -1,0 +1,30 @@
+New York City;861;230
+Los Angeles;88;394
+Chicago;629;244
+San Francisco;31;311
+Atlanta;707;422
+Austin;463;496
+Seattle;97;51
+Niagara Falls;767;197
+Golden Gate Bridge;30;308
+Grand Canyon;183;357
+The Everglades;797;601
+Mount Raineer;106;69
+Mount Kilawea;321;636
+The Liberty Bell;842;257
+The Hollywood Sign;88;392
+Omaha;490;263
+Kansas City;516;316
+Indianapolis;658;290
+El Paso;290;472
+New Orleans;613;520
+Fresno;70;312
+Great Salt Lake;217;251
+Lake Pontchartrain;612;519
+Lake Champlain;849;142
+Key West;782;624
+Death Valley;113;327
+Lincoln Tunnel;859;234
+Denali;101;574
+Yellowstone National Park;256;168
+Ithaca;808;201
